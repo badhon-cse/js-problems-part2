@@ -1,4 +1,5 @@
-//You are given an array of phone objects, each containing information about the model, brand, and price. Your task is to write a JavaScript function named findAveragePhonePrice that takes this array as input and returns the average price of phone.
+//You are given an array of phone objects, each containing information about the model, brand, and price.
+//Your task is to write a JavaScript function named findAveragePhonePrice that takes this array as input and returns the average price of phone.
 
 const phones = [
   { model: "PhoneA", brand: "Iphone", price: 95000 },
