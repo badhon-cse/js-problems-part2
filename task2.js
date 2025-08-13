@@ -1,6 +1,6 @@
 //Find the friend with the smallest name.
 
-const names = ["rahim", "robin", "rafi", "ronika", "r"];
+const names = ["rahim", "robin", "rafi", "ronika", "rashed"];
 
 let smallName = names[0];
 
